@@ -1,0 +1,30 @@
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+
+}
+.col-10 img{
+    align-items: center;
+    justify-content: center;
+    width: 25rem;
+
+}
+.carousel-inner {
+    max-height: 40rem ;
+    height:fit-content;
+} 
+
+.card img{
+    height: 30rem;
+    width: 100%;
+}
+.card-body{
+    width: fit-content;
+}
